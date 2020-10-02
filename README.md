@@ -1,3 +1,7 @@
+Fork
+====
+The purpose of this fork is to create a swift package from the library.  
+
 amiitool
 ========
 amiibo™ encryption/decryption/copy tool
